@@ -40,11 +40,11 @@ The dataset utilized for this analysis contains historical flight data, includin
 **Project Structure:**
 - `data` directory: Contains the raw data file.
 - `notebooks` directory: Includes Jupyter notebooks for data cleaning, exploratory data analysis (EDA), and predictive modeling.
-- `figures` directory: Contains visualizations generated during the analysis.
+- `media` directory: Contains visualizations generated during the analysis.
 - `README.md` file: Provides an overview of the project.
 
 **🚀Getting Started:**
-To run the code, Python 3 and Jupyter Notebook are required. The dataset can be downloaded from [source] or the GitHub repository.
+To run the code, Python 3 and Jupyter Notebook are required. The dataset can be downloaded from [<a href="data/Data_Train.xlsx">source</a>] or the GitHub repository.
 
 🌄 Clone this repository: git clone https://github.com/sairasmi/flight-price-prediction.git
 
@@ -55,4 +55,5 @@ To run the code, Python 3 and Jupyter Notebook are required. The dataset can be 
 **Author:**
 This project was conducted by **Rasmi Ranjan Swain**. For inquiries, please contact **swainrasmiranjan7@gmail.com**. 
 
-Stay tuned for updates on how this project transforms the landscape of flight price prediction! ✈️🌐 #FlightPricePrediction #DataScience #PredictiveAnalytics #DataDrivenDecisions #machine-learning #regression
+Stay tuned for updates on how this project transforms the landscape of flight price prediction! ✈️🌐 #FlightPricePrediction #DataScience #PredictiveAnalytics #DataDrivenDecisions #machine-learning #regression #random-forest-regression
+#flight-price-prediction
